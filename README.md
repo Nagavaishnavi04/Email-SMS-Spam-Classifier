@@ -9,6 +9,7 @@ This project is an Email and SMS Spam Classifier built using Python, Streamlit, 
 2)Machine Learning Model: Trained using a Naive Bayes classifier.
 
 3)Web Interface: Built with Streamlit for easy interaction and deployment.
+
 How to Run:
 
 (i)Clone the repository.
